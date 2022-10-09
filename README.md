@@ -5,7 +5,7 @@
 
 - 📫 Puedes contactarme en **gurevichsantiago@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://twitter.com/santigure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santigure" height="30" width="40" /></a>
 <a href="https://instagram.com/santigurevich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santigurevich" height="30" width="40" /></a>

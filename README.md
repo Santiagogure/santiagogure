@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Yo soy Santiago Gurevich</h1>
-<h3 align="left">Un estudiante de programación autodidacta en Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React y Node.js**
+- 🌱 Actualmente estoy aprendiendo **React y proximamente Node.js**
 
 - 📫 Puedes contactarme en **gurevichsantiago@hotmail.com**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Santiago Gurevich</h1>
+<h3 align="center">Hola, soy Santiago Gurevich</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React y proximamente Node.js**
 

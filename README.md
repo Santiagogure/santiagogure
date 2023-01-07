@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Santiago Gurevich</h1>
-- 🌱 Actualmente estoy aprendiendo **React y Python**
+- 🌱 Actualmente estoy aprendiendo *React y Python*
 
 - 📫 Puedes contactarme en **gurevichsantiago@hotmail.com**
 

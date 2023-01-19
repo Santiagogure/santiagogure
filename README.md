@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Santiago Gurevich</h1>
+<h1 align="left">Hola, soy Santiago Gurevich</h1>
 - Actualmente estoy aprendiendo *React y Python*
 
 <h3 align="left">Connect with me:</h3>

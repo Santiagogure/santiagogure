@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Santiago Gurevich</h1>
-- 🌱 Actualmente estoy aprendiendo *React y Python*
+- Actualmente estoy aprendiendo *React y Python*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="left">Hola, soy Santiago Gurevich</h1>
-- 🌱 Actualmente estoy aprendiendo **Node JS** - 📫 Puedes contactarme en
+- 🌱 Actualmente estoy aprendiendo **Node JS y bases de datos** - 📫 Puedes contactarme en
 **gurevichsantiago@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>

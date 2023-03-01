@@ -142,15 +142,6 @@
       height="45"
     />
   </a>
-
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://babeljs.io/img/ogImage.png"
-      alt="babel"
-      width="45"
-      height="45"
-    />
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"

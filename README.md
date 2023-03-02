@@ -10,7 +10,7 @@
 <h3 align="left">Front end</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,materialui" />
   </a>
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
@@ -33,7 +33,9 @@
 
 <h3 align="left">Tools</h3>
 <p align="left">
-
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode " />
+  </a>
 </p>
 
 

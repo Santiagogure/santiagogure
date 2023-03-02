@@ -26,29 +26,14 @@
 <h3 align="left">Back end</h3>
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="45"
-      height="45"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="45"
-      height="45"
-    />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,firebase" />
   </a>
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,firebase" />
-  </a>
+
 </p>
 
 

@@ -154,7 +154,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,react-native,redux" />
   </a>
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img

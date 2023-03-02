@@ -154,7 +154,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js, ts, react, redux" />
+  </a>
+   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="45"
+      height="45"
+    />
   </a>
 </p>
 

@@ -10,7 +10,7 @@
 <h3 align="left">Front end</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,styledcomponents,materialui,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,styledcomponents,tailwind,materialui,js,ts,react" />
   </a>
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img

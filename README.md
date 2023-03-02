@@ -152,9 +152,9 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react" />
   </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img

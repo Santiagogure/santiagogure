@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Node JS and SQL** - 📫 How to reach me
 **gurevichyo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left"></p>
 
 <h3 align="left">Front end</h3>

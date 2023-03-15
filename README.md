@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,firebase, mysql, postgres	" />
+    <img src="https://skillicons.dev/icons?i=python,firebase,mysql,postgres	" />
   </a>
 </p>
 

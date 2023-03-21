@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Gurevich</h1>
 <h3 align="center">I'm learning to become a full-stack developer</h3>
 
-- 🌱 I’m currently learning **Node JS and SQL** - 📫 How to reach me
+- 🌱 I’m currently learning **Node JS, MongoDB and Next JS ** - 📫 How to reach me
 **gurevichyo@gmail.com**
 
 

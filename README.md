@@ -20,14 +20,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mysql,postgres," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mysql,postgres,heroku" />
   </a>
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,postman,netlify,heroku,figma,vscode " />
+    <img src="https://skillicons.dev/icons?i=github,git,postman,netlify,figma,vscode " />
   </a>
 </p>
 

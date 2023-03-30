@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mysql,postgres,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres,heroku" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 <h3 align="left">Learning</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,python" />
   </a>
 
 

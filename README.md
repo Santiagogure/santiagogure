@@ -31,7 +31,8 @@
   </a>
 </p>
 
-<h3 align="left">Learning</h3>
+<h3 align="left">
+Learning or with basic knowledge:</h3>
 <p align="left">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,python" />

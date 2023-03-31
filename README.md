@@ -10,7 +10,7 @@
 <h3 align="left">Front end</h3>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,redux,vite,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux,vite" />
 </p>
 
 <h3 align="left">Back end</h3>

@@ -35,7 +35,7 @@
 Learning or with basic knowledge:</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,python" />
+    <img src="https://skillicons.dev/icons?i=mongodb,python,webpack" />
   </a>
 
 

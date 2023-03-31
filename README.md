@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,firebase,heroku" />
   </a>
 </p>
 
